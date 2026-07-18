@@ -46,25 +46,6 @@ The PCB layout was designed using Autodesk EAGLE, including component placement,
 - Through-Hole PCB Design
 - PCB Documentation
 
-**📷 Project Images**
-
-
-**📝 Schematic**
-
-![Schematic](Images/Schematic.png)
-
-**🟢 PCB Top View**
-
-![PCB Top](Images/Top-layer.png)
-
-**🔵 PCB Bottom View**
-
-![PCB Bottom](Images/Bottom-layer.png)
-
-**📐PCB Layout**
-
-![PCB Layout](Images/PCB-design.png)
-
 **🎯 Applications**
 
 - Ethernet (LAN) cable testing
